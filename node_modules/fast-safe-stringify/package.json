@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      "fast-safe-stringify@2.1.0",
+      "/data/data/com.termux/files/home/ThunderX7BotWa"
+    ]
+  ],
+  "_from": "fast-safe-stringify@2.1.0",
+  "_id": "fast-safe-stringify@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-xHSIyDJTOVQjtMBGcUokl3tpaOKgTyVTjlHj255V4Q4J1oho3cnrWrf5sCx8z1jq7gzNMv8y0PH53pYYuZUFPQ==",
+  "_location": "/fast-safe-stringify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "fast-safe-stringify@2.1.0",
+    "name": "fast-safe-stringify",
+    "escapedName": "fast-safe-stringify",
+    "rawSpec": "2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "2.1.0"
+  },
+  "_requiredBy": [
+    "/pino",
+    "/pino-pretty"
+  ],
+  "_resolved": "https://registry.npmjs.org/fast-safe-stringify/-/fast-safe-stringify-2.1.0.tgz",
+  "_spec": "2.1.0",
+  "_where": "/data/data/com.termux/files/home/ThunderX7BotWa",
+  "author": {
+    "name": "David Mark Clements"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/fast-safe-stringify/issues"
+  },
+  "contributors": [
+    {
+      "name": "Ruben Bridgewater"
+    },
+    {
+      "name": "Matteo Collina"
+    },
+    {
+      "name": "Ben Gourley"
+    },
+    {
+      "name": "Gabriel Lesperance"
+    },
+    {
+      "name": "Alex Liu"
+    },
+    {
+      "name": "Christoph Walcher"
+    },
+    {
+      "name": "Nicholas Young"
+    }
+  ],
+  "dependencies": {},
+  "description": "Safely and quickly serialize JavaScript objects",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "clone": "^2.1.0",
+    "json-stringify-safe": "^5.0.1",
+    "standard": "^11.0.0",
+    "tap": "^12.0.0"
+  },
+  "homepage": "https://github.com/davidmarkclements/fast-safe-stringify#readme",
+  "keywords": [
+    "stable",
+    "stringify",
+    "JSON",
+    "JSON.stringify",
+    "safe",
+    "serialize"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "fast-safe-stringify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/fast-safe-stringify.git"
+  },
+  "scripts": {
+    "benchmark": "node benchmark.js",
+    "test": "standard && tap --no-esm test.js test-stable.js"
+  },
+  "typings": "index",
+  "version": "2.1.0"
+}

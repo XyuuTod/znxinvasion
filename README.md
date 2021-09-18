@@ -28,7 +28,7 @@
 > npm start
 ```
 
-# Baca Nih!!!
+# Ingfo
 - Change [ownerNumber & nama dan lain lain](https://github.com/TheGetsuzoThunder/znxinvasion/blob/master/lib/settings.json)
 
 # INSTALLL

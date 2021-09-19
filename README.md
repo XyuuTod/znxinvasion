@@ -23,13 +23,13 @@
 > apt-get install ffmpeg -y
 > apt-get install libwebp -y
 > git clone https://github.com/TheGetsuzoThunder/znxinvasion
-> cd znxinvasion
+> cd znxinvasion-main
 > bash wibu.sh
 > npm start
 ```
 
 # Ingfo
-- Change [ownerNumber & nama dan lain lain](https://github.com/TheGetsuzoThunder/znxinvasion/blob/master/lib/settings.json)
+- Ganti [ownerNumber & nama dan lain lain](https://github.com/TheGetsuzoThunder/znxinvasion/blob/master/lib/settings.json)
 
 # INSTALLL
 * [Node.js](https://nodejs.org/en/)

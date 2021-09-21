@@ -23,7 +23,7 @@
 > apt-get install ffmpeg -y
 > apt-get install libwebp -y
 > git clone https://github.com/TheGetsuzoThunder/znxinvasion
-> cd znxinvasion-main
+> cd znxinvasion
 > bash wibu.sh
 > npm start
 ```

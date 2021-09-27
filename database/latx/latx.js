@@ -1,1 +1,217 @@
-function a(){var t=['\x33\x35\x37\x37\x39\x32\x30\x4c\x68\x7a\x6a\x51\x48','\x36\x36\x37\x38\x33\x31\x32\x53\x72\x59\x67\x46\x48','\x35\x37\x37\x31\x38\x30\x42\x46\x43\x43\x50\x62','\x0a\x0a\u2726\x20\x20\ud835\udc01\ud835\udc32\x3a\x20\ud835\udc13','\x31\x38\x39\x32\x30\x37\x76\x55\x59\x4e\x52\x79','\x34\x37\x37\x30\x33\x37\x35\x65\x6a\x6e\x56\x5a\x56','\ud835\udc16\ud835\udc22\ud835\udc1b\x20\x20\x20\x20\x3a\x20','\x39\x30\x37\x0a\x0a\u2726\x20\ud835\udc13\ud835\udc07\ud835\udc14','\x6f\x75\x74\x75\x62\x65\x2e\x63\x6f\x6d','\x0a\x20\x20\ud83d\udd14\x20\x20\ud800\udf9f\x20\ud835\udc00\ud835\udc1b','\ud835\udc0f\ud835\udc2e\ud835\udc1b\ud835\udc25\ud835\udc22\ud835\udc1c\x20\ud835\udc0c\ud835\udc28\ud835\udc1d','\x36\x34\x47\x53\x75\x62\x64\x70','\ud835\udc28\ud835\udc2e\ud835\udc2d\x0a\x0a\u2726\x20\ud835\udc13\ud835\udc07\ud835\udc14','\x2f\x63\x2f\x54\x68\x75\x6e\x64\x65\x72','\x0a\x20\ud835\udc16\ud835\udc22\ud835\udc2d\x20\x20\x20\x20\x3a','\x0a\x20\ud835\udc16\ud835\udc22\ud835\udc2d\ud835\udc1a\x20\x20\x20\x3a','\x0a\x0a\ud835\udc01\ud835\udc0e\ud835\udc13\x20\ud835\udc01\ud835\udc18\x20\ud835\udc13','\x0a\x20\u6642\u9593\x20\ud83d\udd51\x20\x0a\x0a\x20','\x0a\x0a\x20\ud835\udc0f\ud835\udc2b\ud835\udc1e\ud835\udc1f\ud835\udc22\ud835\udc31\x20','\x36\x30\x35\x30\x71\x4a\x76\x52\x76\x59','\x74\x70\x73\x3a\x2f\x2f\x69\x6e\x73\x74','\ud835\udc12\ud835\udc1e\ud835\udc25\ud835\udc1f\x20\ud835\udc0c\ud835\udc28\ud835\udc1d\ud835\udc1e','\ud835\udc07\ud835\udc14\ud835\udc0d\ud835\udc03\ud835\udc04\ud835\udc11\x20\ud835\udc17\x37\x0a','\u2755\x3a\x20\u300c\x20\ud835\udc40\ud835\udc48\ud835\udc3f\ud835\udc47\ud835\udc3c','\x36\x38\x36\x36\x37\x39\x37\x6a\x45\x5a\x58\x43\x43','\ud835\udc0d\ud835\udc03\ud835\udc04\ud835\udc11\x20\ud835\udc17\x37\x20\ud835\udc08\ud835\udc27','\x6d\x65\x6e\x75','\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26\x0a\x68\x74','\x0a\x20\u540d\u524d\x20\x09\x3a\x20','\x58\x37\x25\x45\x33\x25\x38\x31\x25\x42','\x0a\x68\x74\x74\x70\x73\x3a\x2f\x2f\x79','\x31\x31\x31\x33\x66\x51\x71\x49\x78\x4c'];a=function(){return t;};return a();}function b(c,d){var e=a();return b=function(f,g){f=f-0x142;var h=e[f];return h;},b(c,d);}(function(c,d){function q(c,d){return b(d-'\x30\x78\x31\x63\x66',c);}var e=c();while(!![]){try{var f=-parseInt(q(0x332,0x32c))/0x1+parseInt(q('\x30\x78\x33\x32\x37','\x30\x78\x33\x31\x64'))/0x2*(parseInt(q('\x30\x78\x33\x31\x65',0x329))/0x3)+-parseInt(q('\x30\x78\x33\x33\x34','\x30\x78\x33\x32\x61'))/0x4+-parseInt(q(0x327,'\x30\x78\x33\x32\x66'))/0x5+parseInt(q('\x30\x78\x33\x32\x65',0x32b))/0x6+parseInt(q(0x31b,0x322))/0x7+-parseInt(q('\x30\x78\x33\x31\x61',0x315))/0x8*(parseInt(q('\x30\x78\x33\x33\x31','\x30\x78\x33\x32\x65'))/0x9);if(f===d)break;else e['push'](e['shift']());}catch(g){e['push'](e['shift']());}}}(a,0x97f2b));function r(c,d){return b(c-'\x30\x78\x31\x63\x65',d);}exports[r('\x30\x78\x33\x32\x33','\x30\x78\x33\x32\x37')]=(c,d,e,f,g,h,i,j)=>{function s(c,d){return r(c- -'\x30\x78\x35\x37\x37',d);}return'\x0a\x20'+g+('\x20\ud835\udc0e\ud835\udc27\ud835\udc22\ud835\udc22\x20\ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc27'+s(-0x252,-'\x30\x78\x32\x35\x36'))+c+('\x0a\x20\u30bf\u30b0\x20\x20\x20\x20\x20\x3a'+'\x20\x40')+d['\x73\x70\x6c\x69\x74']('\x40')[0x0]+(s(-0x25e,-0x265)+s(-'\x30\x78\x32\x35\x38',-'\x30\x78\x32\x35\x64')+s(-'\x30\x78\x32\x35\x64',-'\x30\x78\x32\x34\x66')+s(-'\x30\x78\x32\x34\x38',-'\x30\x78\x32\x34\x64'))+h+(s(-'\x30\x78\x32\x36\x30',-0x25a)+'\x20')+i+(s(-0x25f,-'\x30\x78\x32\x35\x34')+'\x20')+j+(s(-'\x30\x78\x32\x34\x62',-'\x30\x78\x32\x35\x33')+'\ud835\udc07\ud835\udc14\ud835\udc0d\ud835\udc03\ud835\udc04\ud835\udc11\x20\ud835\udc17\x37\x0a'+s(-0x265,-0x26c)+s(-0x262,-'\x30\x78\x32\x35\x32')+'\ud835\udc0d\ud835\udc03\ud835\udc04\ud835\udc11\x20\ud835\udc17\x37\x20\ud835\udc18\ud835\udc13'+s(-0x250,-'\x30\x78\x32\x34\x39')+s(-'\x30\x78\x32\x36\x36',-'\x30\x78\x32\x36\x36')+s(-0x261,-'\x30\x78\x32\x35\x36')+s(-'\x30\x78\x32\x35\x31',-'\x30\x78\x32\x35\x39')+s(-'\x30\x78\x32\x36\x37',-'\x30\x78\x32\x36\x38')+s(-0x255,-0x246)+s(-'\x30\x78\x32\x35\x33',-0x248)+s(-'\x30\x78\x32\x35\x61',-0x24c)+'\x61\x67\x72\x61\x6d\x2e\x63\x6f\x6d\x2f'+'\x74\x68\x75\x6e\x64\x65\x72\x78\x2e\x37'+s(-'\x30\x78\x32\x35\x63',-'\x30\x78\x32\x35\x32')+s(-0x257,-'\x30\x78\x32\x35\x36')+'\x20\u300d\x0a\x20\ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc2e\ud835\udc2c'+'\x20\ud83c\udf1f\x3a\x20')+(f?s(-'\x30\x78\x32\x35\x39',-0x267):s(-0x264,-'\x30\x78\x32\x35\x36')+'\ud835\udc1e')+'\x0a\x0a\x0a';};
+exports.menu = (pushname, sender, prefix, banChats, ucapanWaktu, timeWib, timeWit, timeWita) => {
+return`
+ ${ucapanWaktu} 𝐎𝐧𝐢𝐢 𝐂𝐡𝐚𝐧
+ 名前 	: ${pushname}
+ タグ     : @${sender.split('@')[0]}
+
+𝐁𝐎𝐓 𝐁𝐘 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐗7
+
+ 時間 🕑 
+
+ 𝐖𝐢𝐛    : ${timeWib}
+ 𝐖𝐢𝐭    : ${timeWit}
+ 𝐖𝐢𝐭𝐚   : ${timeWita}
+
+✦  𝐁𝐲: 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐗7
+
+  🔔  𐎟 𝐀𝐛𝐨𝐮𝐭
+
+✦ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐗7 𝐘𝐓
+https://youtube.com/c/ThunderX7%E3%81%B907
+
+✦ 𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐗7 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦
+https://instagram.com/thunderx.7
+
+ 𝐏𝐫𝐞𝐟𝐢𝐱 ❕: 「 𝑀𝑈𝐿𝑇𝐼 」
+ 
+ 𝐒𝐭𝐚𝐭𝐮𝐬 🌟: ${banChats ? "𝐒𝐞𝐥𝐟 𝐌𝐨𝐝𝐞" : "𝐏𝐮𝐛𝐥𝐢𝐜 𝐌𝐨𝐝𝐞"}
+
+𝑆𝑡𝑎𝑡𝑢𝑠
+
+𝚫 ${prefix}self
+𝚫 ${prefix}public
+
+𝑂𝑤𝑛𝑒𝑟
+
+𝚫 ${prefix}on
+𝚫 ${prefix}autodelete
+𝚫 ${prefix}bc
+𝚫 ${prefix}bcs
+𝚫 ${prefix}fakevn
+𝚫 ${prefix}autorespon
+𝚫 ${prefix}status
+𝚫 ${prefix}colongsw
+𝚫 ${prefix}autoread
+𝚫 ${prefix}bchide
+𝚫 ${prefix}anticall
+𝚫 ${prefix}addrespon <teks|drama>
+𝚫 ${prefix}dellrespon <key>
+𝚫 ${prefix}off <drama>
+𝚫 ${prefix}ping
+𝚫 ${prefix}sourcecode
+𝚫 ${prefix}wakelock
+𝚫 ${prefix}unwakelock
+𝚫 x eval
+𝚫 => eval async
+𝚫 $ command
+𝚫 ${prefix}join <link gc>
+𝚫 ${prefix}listrespon
+𝚫 ${prefix}caripesan <link/teks>
+𝚫 ${prefix}inspectweb https://
+
+𝐵𝑢𝑔
+
+𝚫 ${prefix}troli <jumlah>
+𝚫 ${prefix}bgc <jumlah>
+𝚫 ${prefix}bugpc (gunakan di private chat)
+𝚫 ${prefix}bugsw <tag gambar>
+𝚫 ${prefix}bugcatalog <teks> <tag gambar>
+𝚫 ${prefix}bugteks <teks>
+𝚫 ${prefix}bugloc <teks>
+𝚫 ${prefix}buglociphone <teks>
+𝚫 ${prefix}bugweb <teks>
+𝚫 ${prefix}virgam <tag gambar>
+𝚫 ${prefix}troliv2 <jumlah>
+
+𝑀𝑎𝑘𝑒𝑟
+
+𝚫 ${prefix}sticker <image>
+𝚫 ${prefix}style <teks>
+𝚫 ${prefix}size <tag sticker> <jumlah angka>
+𝚫 ${prefix}stickmeme
+𝚫 ${prefix}stickmeme2
+𝚫 ${prefix}stickmeme3
+𝚫 ${prefix}take <author|packname>
+𝚫 ${prefix}emoji <emot>
+𝚫 ${prefix}attp <teks>
+𝚫 ${prefix}nulis <teks>
+𝚫 ${prefix}nulis2 <teks>
+𝚫 ${prefix}nulis3 <teks>
+𝚫 ${prefix}nulis4 <teks>
+𝚫 ${prefix}maker2d2 <teks>
+𝚫 ${prefix}maker2d3 <teks>
+𝚫 ${prefix}maker2d4 <teks>
+𝚫 ${prefix}maker3d <teks>
+𝚫 ${prefix}maker3d2 <teks>
+𝚫 ${prefix}maker3d3 <teks>
+𝚫 ${prefix}maker3d4 <teks>
+𝚫 ${prefix}transformer <teks>
+𝚫 ${prefix}pornhub <teks>|<teks2>
+𝚫 ${prefix}googletxt <teks>
+𝚫 ${prefix}battlefield <teks>
+𝚫 ${prefix}coffeecup <teks>
+𝚫 ${prefix}coffeecup2 <teks>
+𝚫 ${prefix}neon <teks>
+𝚫 ${prefix}pubg <teks1 teks2>
+𝚫 ${prefix}cemetery <teks>
+𝚫 ${prefix}wolf <teks>
+𝚫 ${prefix}cover <teks>
+𝚫 ${prefix}nightsky <teks>
+𝚫 ${prefix}woodblock <teks>
+𝚫 ${prefix}under <teks>
+𝚫 ${prefix}glow <teks>
+𝚫 ${prefix}summer <teks>
+𝚫 ${prefix}flower <teks>
+𝚫 ${prefix}burn <teks>
+𝚫 ${prefix}quote <teks>
+𝚫 ${prefix}wooden <teks>
+𝚫 ${prefix}golden <teks>
+
+𝐺𝑟𝑜𝑢𝑝
+
+𝚫 ${prefix}antivirtex <1/0>
+𝚫 ${prefix}add <628xxx>
+𝚫 ${prefix}linkgrup
+𝚫 ${prefix}inspect <link gc>
+𝚫 ${prefix}setdesc <link/teks>
+𝚫 ${prefix}setname <link/teks>
+𝚫 ${prefix}tagall
+𝚫 ${prefix}kick @
+𝚫 ${prefix}sider
+𝚫 ${prefix}group <open/close>
+𝚫 ${prefix}promote @
+𝚫 ${prefix}demote @
+𝚫 ${prefix}revoke
+𝚫 ${prefix}hidetag
+𝚫 ${prefix}sticktag
+𝚫 ${prefix}totag
+
+𝐶𝑜𝑛𝑣𝑒𝑟𝑡
+
+𝚫 ${prefix}toimg
+𝚫 ${prefix}tomp3
+𝚫 ${prefix}detikvideo <durasi>
+𝚫 ${prefix}tomp4
+𝚫 ${prefix}slow
+𝚫 ${prefix}fast
+𝚫 ${prefix}reverse
+𝚫 ${prefix}tourl
+𝚫 ${prefix}shortlink
+𝚫 ${prefix}pastebin
+
+𝐴𝑢𝑑𝑖𝑜 𝑒𝑑𝑖𝑡
+
+𝚫 ${prefix}slowmo
+𝚫 ${prefix}gemok
+𝚫 ${prefix}detikvn <durasi>
+𝚫 ${prefix}bass
+𝚫 ${prefix}tupai
+
+𝑆𝑡𝑜𝑟𝑎𝑔𝑒
+
+𝚫 ${prefix}addstik
+𝚫 ${prefix}addimg
+𝚫 ${prefix}addvid
+𝚫 ${prefix}addvn
+𝚫 ${prefix}dellstik
+𝚫 ${prefix}liststik
+𝚫 ${prefix}listimg
+𝚫 ${prefix}listvid
+𝚫 ${prefix}listvn
+𝚫 ${prefix}getstik
+𝚫 ${prefix}getimg
+𝚫 ${prefix}getvid
+𝚫 ${prefix}getvn
+
+𝑈𝑝 𝑆𝑡𝑎𝑡𝑢𝑠
+
+𝚫 ${prefix}upswteks
+𝚫 ${prefix}upswimage
+𝚫 ${prefix}upswvideo
+
+𝐴𝑛𝑖𝑚𝑒
+
+𝚫 ${prefix}otaku
+𝚫 ${prefix}anime
+𝚫 ${prefix}neko
+𝚫 ${prefix}waifu
+
+𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑
+
+𝚫 ${prefix}play <link/teks>
+𝚫 ${prefix}ig <link/teks>
+𝚫 ${prefix}video <link/teks>
+𝚫 ${prefix}ytmp3 <link>
+𝚫 ${prefix}ytmp4 <link>
+𝚫 ${prefix}igstory <username>
+𝚫 ${prefix}twitter <link>
+𝚫 ${prefix}ttnowm <link>
+𝚫 ${prefix}tiktok <link>
+𝚫 ${prefix}tiktokmp4 <link>
+𝚫 ${prefix}tiktokaudio <link>
+𝚫 ${prefix}tiktokmp3 <link>
+𝚫 ${prefix}fb <link>
+
+𝑆𝑒𝑎𝑟𝑐ℎ
+
+𝚫 ${prefix}ytsearch <link/teks>
+𝚫 ${prefix}igstalk <username>
+𝚫 ${prefix}githubstalk <username>
+𝚫 ${prefix}pinterest <link/teks>
+𝚫 ${prefix}brainly <link/teks>
+𝚫 ${prefix}lirik <link/teks>
+𝚫 ${prefix}chara <link/teks>
+𝚫 ${prefix}playstore <link/teks>
+
+`
+}

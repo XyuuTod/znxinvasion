@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://d.top4top.io/p_2087chafk2.jpg" alt="ZNX INVASION BOT" width="300" />
+<img src="https://d.top4top.io/p_2087chafk2.jpg" alt="ZNX INVASION BOT V2" width="300" />
 
 >
 >

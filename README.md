@@ -13,7 +13,9 @@
 </h4>
 </p>
 ## ZNX INVASION V2
-
+```
+Update fake vn dan laen laen
+```
 ## CARA INSTALL
 ```
 > termux-setup-storage
